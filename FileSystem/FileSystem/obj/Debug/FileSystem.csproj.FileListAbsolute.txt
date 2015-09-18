@@ -1,0 +1,12 @@
+c:\users\antoine\documents\visual studio 2012\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+c:\users\antoine\documents\visual studio 2012\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+c:\users\antoine\documents\visual studio 2012\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+c:\users\antoine\documents\visual studio 2012\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.csprojResolveAssemblyReference.cache
+c:\users\antoine\documents\visual studio 2012\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+c:\users\antoine\documents\visual studio 2012\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
+C:\Users\antoine\Documents\Visual Studio 2012\Projects\Git\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\antoine\Documents\Visual Studio 2012\Projects\Git\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+C:\Users\antoine\Documents\Visual Studio 2012\Projects\Git\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
+C:\Users\antoine\Documents\Visual Studio 2012\Projects\Git\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+C:\Users\antoine\Documents\Visual Studio 2012\Projects\Git\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+C:\Users\antoine\Documents\Visual Studio 2012\Projects\Git\FileSystem\FileSystem\obj\Debug\FileSystem.csprojResolveAssemblyReference.cache
